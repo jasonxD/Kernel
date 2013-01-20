@@ -1,20 +1,60 @@
-Kernel
+ASDFGHJKLZXCVBNMQWERTYUIOP KERNEL
 ======
 
 CHANGELOG:
 
 V1 INITIAL RELEASE:JAN 19 2013
+
+
+
 " hybridproject2013@ubuntu #1 "
+
+
+
+
 FEATURES:
-STOCK LIKE |
+STOCK LIKE
+
+
+
+
+
+
+
 BUGS:
 CANT READ CPU STATES
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 V2 SECOND RELEASE:JAN 20 2013
+
+
 " hybridproject2013@ubuntu #3 "
+
+
 FEATURES:
-STILL STOCK LIKE |
+STILL STOCK LIKE 
+
+
 BUGS:
-NO BUGS |
+NO BUGS
+
+
+
 FIXED:
 CPU STATES NOW READABLE
+
